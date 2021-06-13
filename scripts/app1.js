@@ -1,6 +1,6 @@
 const nombre = prompt("¿Cuál es tu nombre?")
 
-alert(`¡Bienvenid@ ${nombre}! a continuación te voy a pedir que ingreses dos números para realizar operaciones básicas. No olvides abrir la consola para ver los resultados.`);
+alert(`¡Bienvenid@ ${nombre}! A continuación te voy a pedir que ingreses dos números para realizar operaciones básicas de matemáticas. No olvides abrir la consola para ver los resultados.`);
 
 const numero1 = Number(prompt("Ingresa un número"));
 const numero2 = Number(prompt("Ingresa otro número"));
