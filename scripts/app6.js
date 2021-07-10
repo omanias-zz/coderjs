@@ -30,3 +30,4 @@ products.sort((a, b) => {
 products.forEach((e) => {
     console.log(`${e.componente} ${e.marca} ${e.precio}`);
 });
+
